@@ -16,7 +16,60 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #534D4D;
     font-size: 20px;
     padding-right: 2rem;
+}
+
+.companyName {
+    text-align: left;
+    margin-left: 10%;
+}
+
+.mainSentence {
+    font-size: 70px;
+    color: #534D4D;
+    text-align: left;
+    margin-left: 10%;
+    border-spacing: 32px;
+}
+
+.slogan {
+    color: #534D4D;
+    text-align: left;
+    padding-left: 10%;
+    border-spacing: 32px;
+}
+
+.login {
+    top: 67px;
+    left: 1345px;
+    width: 204px;
+    height: 62px;
+    background: #FF8923 0% 0%;
+    border-radius: 36px;
+    opacity: 1;
+    border-style: none;
+    color: white;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-size: 19px;
+}
+
+.waveMe {
+    margin-left: 10%;
+    top: 67px;
+    left: 1345px;
+    width: 204px;
+    height: 62px;
+    background: #3D37F1 0% 0%;
+    border-radius: 36px;
+    opacity: 1;
+    border-style: none;
+    color: white;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-size: 19px;
 }
