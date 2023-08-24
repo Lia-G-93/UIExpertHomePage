@@ -1,5 +1,5 @@
 body {
-    background-image: url(HomePageBackground.png);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-position: right top;
@@ -8,15 +8,13 @@ body {
 }
 
 /* Color needs changing when positioning the menu bar to match original */
-
-.topnav {
-    position: relative;
+.navMenu {
     text-align: right;
 }
 
 a {
     text-decoration: none;
-    color: #534D4D;
+    color: white;
     font-size: 20px;
     padding-right: 2rem;
 }
@@ -24,6 +22,8 @@ a {
 .companyName {
     text-align: left;
     margin-left: 10%;
+    display: inline-block;
+    font-size: 32px;
 }
 
 .mainSentence {
