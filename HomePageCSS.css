@@ -8,8 +8,21 @@ body {
 }
 
 /* Color needs changing when positioning the menu bar to match original */
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
 .navMenu {
     text-align: right;
+    margin: 10%;
 }
 
 a {
@@ -21,7 +34,7 @@ a {
 
 .companyName {
     text-align: left;
-    margin-left: 10%;
+    margin: 10%;
     display: inline-block;
     font-size: 32px;
 }
