@@ -1,15 +1,88 @@
-# {
-    background-color: #FBFCFD;
-
-
-}
-
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #FBFCFD;
 }
 
 .mainTitle {
     color: #3D37F1;
     font-size: 20px;
     text-align: center;
+}
+
+.intro {
+    text-align: center;
+    color: #5A5454;
+}
+
+.intro span {
+    font-size: 40px;
+
+}
+
+.intro p {
+    font-size: 18px;
+}
+
+table {
+    /* color: #FFFFFF; */
+
+}
+
+#webui {
+    background: transparent linear-gradient(180deg, #FBBA77 0%, #DFA871 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 1527px;
+    left: 375px;
+    width: 370px;
+    height: 451px;
+}
+
+#redesign {
+    background: transparent linear-gradient(180deg, #41EAE3 0%, #2293B7 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 40px #C5C3F926;
+    opacity: 1;
+    top: 1527px;
+    left: 774px;
+    width: 370px;
+    height: 451px;
+}
+
+#application {
+    background: transparent linear-gradient(180deg, #69529F 0%, #463864 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 40px #C5C3F926;
+    opacity: 1;
+    top: 1527px;
+    left: 1174px;
+    width: 370px;
+    height: 451px;
+}
+
+#mobileapp {
+    background: transparent linear-gradient(180deg, #4386D2 0%, #0962C5 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 40px #C5C3F926;
+    opacity: 1;
+    top: 2038px;
+    left: 375px;
+    width: 370px;
+    height: 451px;
+}
+
+#webapp {
+    background: transparent linear-gradient(180deg, #A5A2F6 0%, #564FD6 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 40px #C5C3F926;
+    opacity: 1;
+    top: 2038px;
+    left: 774px;
+    width: 370px;
+    height: 451px;
+}
+
+#webelement {
+    background: transparent linear-gradient(180deg, #FF8088 0%, #984141 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 40px 40px #C5C3F926;
+    opacity: 1;
+    top: 2038px;
+    left: 1174px;
+    width: 370px;
+    height: 451px;
 }
