@@ -84,6 +84,10 @@ table {
     height: 451px;
 }
 
+.serviceTitle {
+    font-size: 22px;
+}
+
 #webapp {
     background: transparent linear-gradient(180deg, #A5A2F6 0%, #564FD6 100%) 0% 0% no-repeat padding-box;
     box-shadow: 0px 40px 40px #C5C3F926;
