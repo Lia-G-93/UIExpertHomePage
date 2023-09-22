@@ -7,20 +7,24 @@ body {
     color: #3D37F1;
     font-size: 20px;
     text-align: center;
+    margin-top: 87px;
 }
 
 .intro {
     text-align: center;
     color: #5A5454;
+    margin: 2rem;
+    margin-bottom: 3rem;
 }
 
 .intro span {
     font-size: 40px;
-
+    margin: 128px;
 }
 
 .intro p {
     font-size: 18px;
+    margin-top: 30px;
 }
 
 table {
@@ -29,6 +33,16 @@ table {
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+}
+
+#phoneIcon {
+    top: 1615px;
+    left: 509px;
+    width: auto;
+    height: 100px;
+    background: 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin: 10%;
 }
 
 
