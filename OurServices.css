@@ -27,12 +27,11 @@ body {
     margin-top: 30px;
 }
 
-table {
-    color: #FFFFFF;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
+/* Table content style */
+
+
+.serviceTitle {
+    font-size: 22px;
 }
 
 #phoneIcon {
@@ -48,6 +47,7 @@ table {
 
 .tableButton {
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     border: 2px solid #FFFFFF;
@@ -57,6 +57,7 @@ table {
     height: 45px;
     vertical-align: middle;
 }
+
 
 #webui {
     background: transparent linear-gradient(180deg, #FBBA77 0%, #DFA871 100%) 0% 0% no-repeat padding-box;
@@ -96,10 +97,6 @@ table {
     left: 1174px;
     width: 370px;
     height: 451px;
-}
-
-.serviceTitle {
-    font-size: 22px;
 }
 
 #webapp {
